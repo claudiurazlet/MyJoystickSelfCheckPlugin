@@ -1,2 +1,0 @@
-# MyJoystickSelfCheckPlugin
-MyJoystickSelfCheckPlugin
